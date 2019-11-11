@@ -2,7 +2,7 @@
 
 Compatible with sklearn
 
-Implemented Implemented method described in this research paper https://www.cs.waikato.ac.nz/~eibe/pubs/ordinal_tech_report.pdf
+Implemented method described in this research paper https://www.cs.waikato.ac.nz/~eibe/pubs/ordinal_tech_report.pdf
 
 Allows us to classify classes with an order to it.
 
